@@ -7,10 +7,6 @@ See Caro Application [here](https://github.com/antoo05-11/Caro_107).
 <h2> Authors</h2>
 <p> Ngũ Thành An </p>
 
-<h2>Demo application</h2>
-
-![image](https://github.com/antoo05-11/SalesManagement/assets/92411733/21aef4a0-87c4-4908-a1f5-5ae65c22fe1a)
-
 <h2>Installation Guide</h2>
 
 <p>To run this project, you need to have the following requirements:</p>
